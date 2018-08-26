@@ -1403,9 +1403,9 @@
 	body {
 		background-color: #000;
 		background-image: url("../../images/bg.jpg");
-		background-size: 50% 50%;
+		background-size: 75% 75%;
 		background-repeat: no-repeat;
-		background-position: top center;
+		background-position: center;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
